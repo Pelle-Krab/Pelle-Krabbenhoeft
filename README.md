@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pelle-Krab.
+- 👋 Hi, I’m @PelleKrab.
 - 👀 I’m interested in robotics, smart contracts, and cyber security.
 - 🌱 I’m currently learning Solidity.
 - 📫 How to reach me, you can't.
