@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PelleKrab.
-- 👀 I’m interested in blockchain technology and cyber security.
+- 👀 I’m interested in Core Ethereum Development.
 - 🌱 I’m currently learning Rust 🦀.
 - 📫 How to reach me, github.n6z5b@simplelogin.com.
 
